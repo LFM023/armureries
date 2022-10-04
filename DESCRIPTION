@@ -1,0 +1,13 @@
+Package: armureries
+Title: Géolocalisation des armureries en France
+Version: 0.0.0.9000
+Authors@R: person('Philippe', 'Fontaine', email = 'philippe.fontaine.ds@proton.me', role = c('cre', 'aut'))
+Description: Géolocalisation des armureries en France à partir de la liste des armureries disponibles sur data.gouv et de la base Sirene.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.3),
+    shiny (>= 1.7.2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
